@@ -11,6 +11,11 @@ Within the files you will find an .xlsx file with multiple sheets. The first one
 After the cleaning of our data the result is two beautiful Dashboards that help us understand the Data better.
 
 
+## The first Dashboard shows us a total overview of the Financial situation of the products. 
+I have based the final results on the ability to utilise slicers, to determine the best strategy for a new seller on wish. 
+![image](https://github.com/nicoricilucian/Data-Analysis/assets/90253154/3fa77b7e-0a38-4f20-9b90-4d2706e0bc19)
+
+
 
 
 ![image](https://github.com/nicoricilucian/Data-Analysis/assets/90253154/f26d6bf6-2476-417e-9b95-4a1fa0d59d9a)
