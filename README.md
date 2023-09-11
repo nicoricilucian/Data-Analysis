@@ -1,4 +1,5 @@
-### Data Analysis - Wish Summer Products - Micrsoft Excel - Python
+### <u> Data Analysis </u>
+### Wish Summer Products - Micrsoft Excel - Python
 
 ## This repo is a Data Analysis project on the database of Wish.com Summer Clothing Products taken from Kaggel. 
 
